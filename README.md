@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Fabbbe
 - 👀 I’m interested in coding and computer graphics
-- 🌱 I’m currently learning IT-forensics and security
+- 🌱 I’m currently studying IT-forensics and security
 - 📫 You can reach me at fabian@fabbbe.se
 
 <!---
